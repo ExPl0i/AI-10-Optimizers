@@ -52,3 +52,6 @@ datasets.FashionMNIST('data', train=False, download=True)
 ## Требования
 
 Python 3.8+, `torch`, `torchvision`, `numpy`, `matplotlib`.
+
+## Ссылка на Яндекс Форму для сдачи работ
+https://forms.yandex.ru/u/6ab73d146d2d73432fe4fb1c
